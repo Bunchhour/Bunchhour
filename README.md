@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Boonchu 👋</h1>
+<h1 align="center">Hi, I'm Bunchhour 👋</h1>
 <p align="center">
   Data Science & AI Engineering Student | Graphic Designer | ML Enthusiast | Cambodia 🇰🇭
 </p>
