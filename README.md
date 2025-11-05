@@ -7,54 +7,34 @@
 
 ### 🌟 About Me
 - 🎓 Year 2 Data Science & AI Engineering student at **CamTech University**
-- 💡 Passionate about **AI, Smart Agriculture, and Education Tech**
+- 💡 Passionate about **AI, Machine learning, Data anayst and visualization**
 - 🎨 Also a **Graphic Designer** at a tech-focused university
-- 📚 Currently learning **Machine Learning, OCR, and Predictive Analytics**
-- 🧭 Aspiring to build educational tools for Cambodian students
-
----
-
-### 🚀 Projects
-#### 📌 Current Work
-- 🇰🇭 **Khmer OCR Project (Internship)** — Building OCR pipeline (starting with English dataset first)
-- 🌾 **Smart Irrigation System** — IoT + ML for agriculture automation in Cambodia
-- 🎥 **Your Perspective** — YouTube channel where I share tech & learning journeys
-
-#### ✅ Previous Projects
-- 🅿️ Smart Parking System prototype
-- 📊 Loan Eligibility Prediction using Logistic Regression
 
 ---
 
 ### 🧠 Interests
 - Machine Learning & NLP
-- Smart Agriculture / IoT
-- AI for Education
 - Entrepreneurship & Startup Learning
-- UI/UX & Visual Design
+- Data analyst
+- Data visualization using Python and Power BI, Tableau
+- Data Engineer
 
 ---
 
 ### 🛠 Tech Stack
 
+---
+
 #### 💻 Programming & ML
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160" />
-</p>
-
----
-
 ### 🔗 Connect with Me
-- LinkedIn: your-link
-- YouTube: your-link
-- Facebook: your-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/bunchhour-veat-05a217300/
+- FacebookI: https://web.facebook.com/chu.chu.330795 (for project demo)
+- FacebookII: https://web.facebook.com/bunchu.veat.1 (for connection)
+- Email: bunchhourveat@gmail.com
 
 ---
 
-> 🌱 *“Building AI solutions for Cambodian students and farmers — step by step.”*
+> 🌱 *“ Data-Driven Decission Making in Cambodia”*
