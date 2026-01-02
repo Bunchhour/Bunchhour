@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Year 2 Data Science & AI Engineering student at **CamTech University**
+- 🎓 Year 3 Data Science & AI Engineering student at **CamTech University**
 - 💡 Passionate about **AI, Machine learning, Data anayst and visualization**
 - 🎨 Also a **Graphic Designer** at a tech-focused university
 
