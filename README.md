@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bunchhour 👋</h1>
 <p align="center">
-  Data Science & AI Engineering Student | Graphic Designer | ML Enthusiast | Cambodia 🇰🇭
+  I believe in using historical data to make informed decisions, build predictions, and solve the right problems.
 </p>
 
 ---
