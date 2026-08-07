@@ -1,17 +1,31 @@
 <div align="center">
 
-<!-- Sun Wukong ASCII Banner -->
-<pre style="background:#0D0F12;color:#E5E7EB;display:inline-block;text-align:center;padding:10px 16px;border-radius:12px;border:1px solid #2a1f00;font-family:'Courier New',Courier,monospace;font-size:11px;line-height:1.2;">
-<span style="color:#F59E0B">  ／⌒ヽ    ／⌒ヽ</span>
-<span style="color:#F59E0B"> ( ´∀｀)  ( ´∀｀)</span>
-<span style="color:#D97706">  ｜ ∪ |─ ─| ∪ |</span>
-<span style="color:#D97706">  (_)_)   (_(_)</span>
-<span style="color:#FBBF24">  🌩 SUN WUKONG 🌩</span>
-<span style="color:#F59E0B">  THE GREAT SAGE</span>
+<pre style="background:#0D0F12;color:#E5E7EB;display:inline-block;text-align:center;padding:18px 28px;border-radius:14px;border:1px solid #2a1f00;border-top:2px solid #F59E0B;font-family:'Courier New',Courier,monospace;font-weight:600;font-size:12px;line-height:1.3;">
+<span style="color:#F59E0B;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣤⣤⣤⣴⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣤⣤⣤⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#F59E0B;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣴⣶⣾⠿⠿⣛⣛⣋⣉⣉⣉⣁⣀⡀⠿⣿⣿⣿⣿⣿⡿⠃⣀⣈⣉⣉⣉⣙⣛⣛⡻⠿⢿⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#FBBF24;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⠿⠛⠋⠉⠀⠀⣴⣿⣿⡛⠛⠛⣛⣛⠛⠛⠿⢿⣷⣯⣉⣩⣷⣿⠿⠟⠛⢛⣛⡛⠛⠛⣻⣿⣷⡀⠀⠈⠉⠛⠿⢿⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#FBBF24;">⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⠿⠻⠿⣿⣷⣶⣦⣤⣤⣄⣈⣛⣿⣿⣿⠿⠿⠛⠀⣀⣀⣠⣿⣿⡿⣿⣿⣧⣀⣀⡀⠘⠻⠿⢿⣿⣿⣛⣋⣀⣤⣤⣤⣶⣶⣿⡿⠿⠻⢿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#F59E0B;">⠀⠀⠀⠀⢀⣴⣿⡿⠋⠁⠀⠀⠀⠀⠀⠈⠉⠉⠙⠛⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠛⠋⠁⠀⠀⠉⠛⠻⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⡛⠛⠉⠉⠉⠀⠀⠀⠀⠀⠀⠉⠻⣿⣶⣄⠀⠀⠀⠀⠀</span>
+<span style="color:#F59E0B;">⠀⠀⠀⣴⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢿⣿⣿⣿⡿⠛⠛⠿⠿⣿⣿⣶⣦⣴⣶⣤⣴⣤⣴⣶⣤⣶⣾⣿⡿⠿⠟⠛⢻⣿⣿⣿⣿⠟⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣷⡀⠀⠀⠀</span>
+<span style="color:#D97706;">⠀⢀⣾⣿⠟⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠠⢮⣿⣿⣿⡁⠀⠠⣶⣿⣶⡆⠈⠛⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⢰⣶⣿⣶⠀⠈⣹⣿⣿⣵⠦⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠘⣿⣿⡄⠀⠀</span>
+<span style="color:#D97706;">⠀⣼⣿⡟⠀⠀⠀⣠⣶⣿⣿⡿⠿⠿⠷⠶⠤⠀⠈⠛⠿⢿⣿⡷⣆⣀⣿⣶⣾⣿⣿⣟⣿⣿⣿⣿⣿⣟⣿⣿⣷⣶⣶⣇⣀⠶⣿⡿⠿⠟⠃⠀⠠⠴⠶⠿⠿⠿⣿⣿⣷⣦⡀⠀⠀⠸⣿⣿⡀⠀</span>
+<span style="color:#FBBF24;">⠀⣿⣿⡇⠀⢀⣾⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣾⣿⠿⣛⣿⣟⣻⣿⣯⣭⣭⣭⣭⣭⣭⣿⣿⣻⣿⣟⡻⣿⣿⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⡄⠀⠀⣿⣿⡇⠀</span>
+<span style="color:#FBBF24;">⠀⢻⣿⣧⠀⣸⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⡿⠋⠁⠀⠻⠇⠀⣿⣿⡟⠿⠿⠛⠉⠉⠉⠉⠉⠙⠻⠿⠿⣿⣿⡇⠈⠿⠃⠀⠉⠻⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⠀⢰⣿⣿⠃⠀</span>
+<span style="color:#F59E0B;">⠀⠈⢿⣿⣆⣿⡿⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠙⢿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠟⠁⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠹⣿⣧⣾⣿⠏⠀⠀</span>
+<span style="color:#F59E0B;">⠀⠀⠈⠻⣿⣿⡇⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⠏⠀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠀⠈⢿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⣿⣿⡿⠃⠀⠀⠀</span>
+<span style="color:#D97706;">⠀⠀⠀⠀⠈⠻⣿⣦⣄⠀⠀⣴⣿⣿⣿⣿⡏⠀⠀⢻⣷⠀⠀⠀⠀⠀⠀⠀⣼⣿⣀⡀⠀⠀⠀⠀⠀⢀⣀⣸⣿⡀⠀⠀⠀⠀⠀⠀⣰⣿⠀⠀⠘⣿⣿⣿⣿⣷⡀⠀⢀⣴⣿⡿⠋⠀⠀⠀⠀⠀</span>
+<span style="color:#D97706;">⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠙⠃⠀⠀⠀⠀⣤⠀⠻⠿⠿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠁⢠⡄⠀⠀⠀⠀⠛⠁⠀⠀⠀⢹⣿⣿⣿⣿⣿⣾⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#FBBF24;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠿⣿⣿⣧⣀⡀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣶⣤⣤⣀⣀⣀⣈⣀⣀⣀⣀⣀⣤⣤⣴⣾⡟⠀⠀⠀⠀⠀⠀⠀⠀⣀⣨⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#FBBF24;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠿⠿⣷⣶⣦⣤⣤⣀⣀⣀⠉⠉⠻⠿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠋⠉⢁⣀⣀⣠⣤⣤⣶⣶⡿⠿⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#F59E0B;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠛⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠛⠛⠛⠋⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</span>
+<span style="color:#2a1f00;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+<span style="color:#F59E0B;">              🐒  SUN WUKONG — THE GREAT SAGE  🐒</span>
+<span style="color:#D97706;">         齐天大圣  ·  The Monkey King  ·  棍扫千军</span>
+<span style="color:#2a1f00;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
 </pre>
 
 <a href="https://github.com/Bunchhour">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3600&pause=600&color=F59E0B&background=0D0F12&center=true&vCenter=true&multiline=false&width=540&height=50&lines=%3E+Aspiring+AI+%26+Data+Engineer;%3E+3rd+year+BSc+Data+Science+%26+AI+%40+CamTech;%3E+The+journey+of+a+thousand+miles+begins+with+one+step.;%3E+I%27m+Bunchhour." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3600&pause=600&color=F59E0B&background=0D0F12&center=true&vCenter=true&multiline=false&width=560&height=50&lines=%3E+Aspiring+AI+%26+Data+Engineer;%3E+3rd+year+BSc+Data+Science+%26+AI+%40+CamTech;%3E+The+journey+of+a+thousand+miles+begins+with+one+step.;%3E+I%27m+Bunchhour." alt="Typing animation"/>
 </a>
 
 <br/>
@@ -23,6 +37,7 @@
 <a href="mailto:bunchhourveat@gmail.com"><img src="https://img.shields.io/badge/Email-bunchhourveat%40gmail.com-F59E0B?style=flat&labelColor=0D0F12" alt="Email"/></a>
 
 </div>
+
 
 ---
 
